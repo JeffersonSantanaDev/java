@@ -1,9 +1,7 @@
-package example_four;
+package examples;
 
-public class Test {
-    // Main method
+public class Example05ShowSyntaxErrors {
     public static void main(String[] args) {
-/** Display output */
         System.out.println("Welcome to Java");
     }
 }

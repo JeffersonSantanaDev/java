@@ -1,6 +1,6 @@
-package example_seven;
+package examples;
 
-public class ShowLogicErrors {
+public class Example07ShowLogicErrors {
     public static void main(String[] args) {
         System.out.print("Celsius 35 is Fahrnheit degree ");
         System.out.println((9 / 5) * 35 + 32);

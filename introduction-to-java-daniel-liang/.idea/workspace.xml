@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af39c3dd-c33d-4f6e-b709-a80b376c7bab" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction-to-java-programming-and-data-structures-daniel-liang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/introduction-to-java-programming-and-data-structures-daniel-liang.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example_five/ShowSyntaxErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/examples/Example05ShowSyntaxErrors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example_four/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/examples/Example04Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example_one/Welcome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example_one/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/examples/Example01Welcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example_seven/ShowLogicErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/examples/Example07ShowLogicErrors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example_six/ShowRuntimeErrors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/examples/Example06ShowRuntimeErrors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example_three/ComputerExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/examples/Example03ComputerExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example_two/WelcomeWithThreeMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/examples/Example02WelcomeWithThreeMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises_chapter_one/Exercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/exercises_chapter_one/Exercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises_chapter_one/Exercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/exercises_chapter_one/Exercise02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises_chapter_one/Exercise03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/exercises_chapter_one/Exercise03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises_chapter_one/Exercise04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/exercises_chapter_one/Exercise04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises_chapter_one/Exercise05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/exercises_chapter_one/Exercise05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises_chapter_one/Exercise06.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/exercises_chapter_one/Exercise06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises_chapter_one/Exercise07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/exercises_chapter_one/Exercise07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises_chapter_one/Exercise08.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/exercises_chapter_one/Exercise08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises_chapter_one/Exercise09.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/exercises_chapter_one/Exercise09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises_chapter_one/Exercise10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/exercises_chapter_one/Exercise10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises_chapter_one/Exercise11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/exercises_chapter_one/Exercise11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises_chapter_one/Exercise12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/exercises_chapter_one/Exercise12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises_chapter_one/Exercise13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/src/exercises_chapter_one/Exercise13.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2vMO56PTKxLKQrIcpLeqhLo9iSS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ComputerExpression.executor": "Run",
+    "Application.Example08ComputeArea.executor": "Run",
+    "Application.Exercise01.executor": "Run",
+    "Application.Exercise01_12.executor": "Run",
+    "Application.Exercise02.executor": "Run",
+    "Application.Exercise03.executor": "Run",
+    "Application.Exercise04.executor": "Run",
+    "Application.Exercise05.executor": "Run",
+    "Application.Exercise06.executor": "Run",
+    "Application.Exercise07.executor": "Run",
+    "Application.Exercise08.executor": "Run",
+    "Application.Exercise09.executor": "Run",
+    "Application.Exercise10.executor": "Run",
+    "Application.Exercise11.executor": "Run",
+    "Application.Exercise12.executor": "Run",
+    "Application.Exercise12B.executor": "Run",
+    "Application.Exercise13.executor": "Run",
+    "Application.ShowLogicErrors.executor": "Run",
+    "Application.ShowRuntimeErrors.executor": "Run",
+    "Application.ShowSyntaxErrors.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Welcome.executor": "Run",
+    "Application.WelcomeWithThreeMessages.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Jefferson/Documents/dev/java/introduction-to-java-daniel-liang",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Example08ComputeArea">
+    <configuration name="Example08ComputeArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examples.Example08ComputeArea" />
+      <module name="introduction-to-java-programming-and-data-structures-daniel-liang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise01_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises_chapter_one.Exercise01_12" />
+      <module name="introduction-to-java-programming-and-data-structures-daniel-liang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises_chapter_one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises_chapter_one.Exercise12" />
+      <module name="introduction-to-java-programming-and-data-structures-daniel-liang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises_chapter_one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise12B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises_chapter_one.Exercise12B" />
+      <module name="introduction-to-java-programming-and-data-structures-daniel-liang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises_chapter_one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises_chapter_one.Exercise13" />
+      <module name="introduction-to-java-programming-and-data-structures-daniel-liang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises_chapter_one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example08ComputeArea" />
+        <item itemvalue="Application.Exercise13" />
+        <item itemvalue="Application.Exercise12" />
+        <item itemvalue="Application.Exercise12B" />
+        <item itemvalue="Application.Exercise01_12" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af39c3dd-c33d-4f6e-b709-a80b376c7bab" name="Changes" comment="" />
+      <created>1743951290931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743951290931</updated>
+    </task>
+    <servers />
+  </component>
+</project>

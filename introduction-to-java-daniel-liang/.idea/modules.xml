@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/introduction-to-java-programming-and-data-structures-daniel-liang.iml" filepath="$PROJECT_DIR$/introduction-to-java-programming-and-data-structures-daniel-liang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/introduction-to-java-programming-and-data-structures-daniel-liang.iml" filepath="$PROJECT_DIR$/../introduction-to-java-programming-by-daniel-liang/introduction-to-java-programming-and-data-structures-daniel-liang.iml" />
     </modules>
   </component>
 </project>

@@ -1,6 +1,6 @@
-package example_two;
+package examples;
 
-public class WelcomeWithThreeMessages {
+public class Example02WelcomeWithThreeMessages {
     public static void main(String[] args) {
         System.out.println("Programming is fun!");
         System.out.println("Fundamentals First");
